@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdalculate",
+        "uuid": 9444720,
+        "checksum": "oot5wq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
